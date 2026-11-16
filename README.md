@@ -22,7 +22,8 @@ Este repositorio reúne las evidencias del levantamiento de requerimientos, la m
 ## Enlaces
 
 - **Prototipo en Figma (flujo principal v0.1):** https://www.figma.com/design/XuY8VA5iAG5RQ6DJ0ywe5q/Flujo-principal-V0.1
-- **Documento de especificación de requerimientos (SRS):** [`SRS/SRS_Factoring_v1.4.pdf`](SRS/SRS_Factoring_v1.4.pdf)
+- **Documento de especificación de requerimientos (SRS):** [`SRS/SRS_Factoring_v1.5.pdf`](SRS/SRS_Factoring_v1.5.pdf)
+- **Acta de conformidad firmada (FirmaEC):** [`SRS/Acta_de_Conformidad_firmada.pdf`](SRS/Acta_de_Conformidad_firmada.pdf)
 
 ### Grabaciones (Microsoft Teams · OneDrive ESPOL)
 
@@ -37,7 +38,7 @@ Los mismos enlaces están en [`Reuniones/Link_reuniones.txt`](Reuniones/Link_reu
 
 | Carpeta | Contenido |
 |---|---|
-| [`SRS/`](SRS/) | Documento de especificación de requerimientos en PDF (en inglés). Incluye el acta de conformidad firmada por el cliente (Apéndice F). |
+| [`SRS/`](SRS/) | Documento de especificación de requerimientos en PDF (en inglés, v1.5). Incluye el acta de conformidad firmada por el cliente como Apéndice F, y el archivo original firmado con FirmaEC. |
 | [`docs/`](docs/) | Requerimientos v0.2 e historias de usuario Must v0.2, ya validados por el cliente. |
 | [`Excel/`](Excel/) | Matriz de validación de requerimientos v0.2 e historias de usuario v0.1. |
 | [`Reuniones/`](Reuniones/) | Transcripciones de las tres reuniones con el cliente (Microsoft Teams) y enlaces a las grabaciones. |
